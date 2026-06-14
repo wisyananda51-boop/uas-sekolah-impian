@@ -1,0 +1,11 @@
+bin/
+mod/
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+.DS_Store
+.idea/
+.env.local
